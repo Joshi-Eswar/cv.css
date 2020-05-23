@@ -1,0 +1,147 @@
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top:0px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    line-height: 2;
+    
+    
+}
+
+.top-container{
+    padding-top: 50px;
+    background-color: #E4f9f5;
+    position: relative;
+    text-align: center;
+}
+.bottom{
+    position: absolute;
+    bottom: 38%;
+    right: 58%;
+}
+.mountain{
+    position: relative;
+    left: 22px;
+
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    
+}
+    
+
+
+.top{
+    position: absolute;
+    bottom: 85%;
+    right: 20%;
+}
+h1{
+    font-size: 5.5rem;
+    margin:auto;
+    font-family: 'Sacramento', cursive;
+    margin-top: 50px;
+    color:#66bfbf;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color:#66bfbf;
+    font-size:2rem;
+}
+h3{
+    margin-top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size:2rem;
+    color:#11999e;
+}
+.touch{
+    color:#11999e;
+}
+.skill-row{
+    
+    width:50%;
+    margin:50px auto 50px auto ;
+   
+    text-align:left;
+}
+.joshi{
+    margin-top: 50px;
+}
+.code{
+    width:25%;
+    float:left;
+    margin-right: 10px;
+}
+.java{
+    width:25%;
+    float:right;
+    margin-left: 10px;
+}
+hr{
+
+    border:dotted grey 6px;
+    border-bottom: none;
+    width:6%;
+
+    margin:50px auto;
+
+}
+.contact-me{
+    width:50%;
+    margin:auto;
+
+}
+.bottom-container{
+    background-color: #3D94F6;
+    margin-bottom: 0;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-top: 50px;
+    
+
+
+}
+
+.intro{
+    width:30%;
+    margin:auto;
+
+}
+.copyright{
+    color: #eaf6f6;
+}
+.footer-link{
+    color:#1e62d0;
+}
+.btn1 {
+	background:linear-gradient(to bottom, #44a2c7 5%, #2a7cbf 100%);
+	background-color:#11cdd4;
+	border-radius:8px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:16px;
+	padding:8px 16px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #273366;
+}
+.btn1:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#11cdd4;
+}
+
+a{
+    color: blue;
+    font-family: 'Montserrat', sans-serif;
+    margin:10px 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+a:hover{
+    color:#eaf6f6;
+}
